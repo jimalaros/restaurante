@@ -77,4 +77,4 @@ _Para hacer una reserva tendrás que pasar el nombre del restaurante donde vas a
 
 ## Autores ✒️
 
-* **Jimmy Alexander Arango Ossa** - *Link* - [jimalaros](https://github.com/jimalaros/restaurante)
+* **Jimmy Alexander Arango Ossa** - *Link* - [portfolio](http://bit.ly/Jimmy-Arango-Portafolio)
