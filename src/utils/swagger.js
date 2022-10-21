@@ -2,7 +2,7 @@ const swaggerOptions = {
     definition: {
         openapi: "3.0.3",
         info: {
-            title: "BSALE - OpenAPI 3.0",
+            title: "OpenAPI 3.0",
             description: "",
             version: "1.0.0",
         },
